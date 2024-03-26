@@ -11,7 +11,7 @@ import Quagga from "quagga";
 
 type Product = {
   PRD_ID: number;
-  PRD_CODE: string;
+  PRD_CD: string;
   PRD_NAME: string;
   PRD_PRICE: number;
 };
